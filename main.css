@@ -16,3 +16,10 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 }
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 110px;
+    padding: 300px;
+}
