@@ -23,3 +23,28 @@ h1 {
     font-size: 110px;
     padding: 300px;
 }
+
+h2 {
+    display: flex;
+    justify-content: start;
+    font-size: 60px;
+    padding-top: 20px;
+    padding-left: 70px;
+}
+
+h3 {
+    display: flex;
+    justify-content: start;
+    padding-left: 70px;
+    position: relative;
+    bottom: 30px;
+}
+
+p {
+    display: flex;
+    justify-content: start;
+    padding-left: 70px;
+    position: relative;
+    bottom: 30px;
+    padding-right: 800px;
+}
