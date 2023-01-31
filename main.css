@@ -48,3 +48,19 @@ p {
     bottom: 30px;
     padding-right: 800px;
 }
+
+.row {
+    display: flex;
+    padding-left: 70px;
+    gap: 40px;
+}
+
+img {
+    height: 600px;
+}
+
+.summer {
+    width: 400px;
+    padding-top: 5px;
+    height: 590px;
+}
