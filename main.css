@@ -7,8 +7,8 @@ nav {
     position: absolute;
 }
 
-a {
-    text-decoration: none;
+a:link {
+    text-decoration: none!important;
 }
 
 .bg {
