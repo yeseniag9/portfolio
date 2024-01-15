@@ -9,6 +9,10 @@ nav {
     margin-left: 5px;
 }
 
+.nav {
+    text-decoration: underline 1px pink;
+}
+
 a:link {
     text-decoration: none!important;
     font-weight: bold;
