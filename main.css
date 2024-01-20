@@ -13,7 +13,7 @@ a {
 }
 
 .link {
-    position: relative;
+    position: fixed;
     color: white;
     z-index: 1;
 }
