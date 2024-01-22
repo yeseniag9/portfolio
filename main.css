@@ -30,3 +30,7 @@ a {
 h {
     font-size: 200px;
 }
+
+button {
+    position: absolute;
+}
