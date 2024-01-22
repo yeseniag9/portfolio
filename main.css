@@ -3,10 +3,6 @@ body, html {
     margin: 0;
 }
 
-nav {
-    position: absolute;
-}
-
 .bg {
     background-image: url("images/bg-dubai.jpg");
     opacity: 0.7;
