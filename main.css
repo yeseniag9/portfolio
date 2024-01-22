@@ -5,6 +5,7 @@ body, html {
 
 nav {
     position: absolute;
+    border-bottom: solid;
 }
 
 .link {
