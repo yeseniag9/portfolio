@@ -7,6 +7,10 @@ nav {
     position: absolute;
 }
 
+.link {
+    text-decoration: none;
+}
+
 .bg {
     background-image: url("images/bg-dubai.jpg");
     opacity: 0.7;
