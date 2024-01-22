@@ -7,17 +7,6 @@ nav {
     position: absolute;
 }
 
-a {
-    font-weight: bold;
-    font-size: 18px;
-}
-
-.link {
-    position: fixed;
-    color: white;
-    z-index: 1;
-}
-
 .bg {
     background-image: url("images/bg-dubai.jpg");
     opacity: 0.7;
@@ -25,12 +14,4 @@ a {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-}
-
-h {
-    font-size: 200px;
-}
-
-button {
-    position: absolute;
 }
