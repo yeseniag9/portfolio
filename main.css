@@ -26,3 +26,7 @@ a {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+h {
+    font-size: 200px;
+}
