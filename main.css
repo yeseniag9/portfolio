@@ -24,6 +24,11 @@ nav {
     background-size: cover;
 }
 
+.hi {
+    border-bottom: solid blue;
+    z-index: 1;
+}
+
 h1 {
     opacity: 1.0;
 }
