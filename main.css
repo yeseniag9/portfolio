@@ -8,7 +8,7 @@ nav {
     border-bottom: solid white;
     z-index: 1;
     padding: 10px;
-    opacity: 0.1;
+    opacity: 0.1
 }
 
 a {
@@ -20,7 +20,6 @@ a {
     color: white;
     z-index: 1;
     font-size: 18px;
-    opacity: 0.9;
 }
 
 #col {
