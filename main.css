@@ -4,7 +4,7 @@ body, html {
 }
 
 nav {
-    position: absolute;
+    position: fixed;
     border-bottom: solid white;
     z-index: 1;
 }
