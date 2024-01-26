@@ -26,6 +26,13 @@ a {
     flex-direction: column;
 }
 
+i {
+    text-decoration: none;
+    color: white;
+    z-index: 1;
+    font-size: 18px;
+}
+
 .bg {
     background-image: url("images/bg-dubai.jpg");
     opacity: 0.4;
