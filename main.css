@@ -8,6 +8,7 @@ nav {
     border-bottom: solid white;
     z-index: 1;
     padding: 10px;
+    opacity: 0.4;
 }
 
 a {
