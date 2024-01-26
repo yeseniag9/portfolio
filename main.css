@@ -9,6 +9,10 @@ nav {
     z-index: 1;
 }
 
+a {
+    font-weight: bold;
+}
+
 .link {
     text-decoration: none;
     color: white;
