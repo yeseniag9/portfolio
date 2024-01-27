@@ -11,8 +11,17 @@ nav {
     opacity: 0.1
 }
 
+#elements-nav {
+    display: flex;
+    justify-content: space-between;
+}
+
 a {
     font-weight: bold;
+}
+
+#col {
+    flex-direction: column;
 }
 
 .link {
@@ -20,10 +29,6 @@ a {
     color: white;
     z-index: 1;
     font-size: 18px;
-}
-
-#col {
-    flex-direction: column;
 }
 
 i {
