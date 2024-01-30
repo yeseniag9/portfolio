@@ -20,7 +20,7 @@ a {
     font-weight: bold;
 }
 
-#col {
+#col1 {
     flex-direction: column;
 }
 
@@ -56,3 +56,11 @@ i {
     height: 700px;
     background-color: blue;
 }
+
+#col2 {
+    flex-direction: column;
+}
+
+.btn.sharp {
+    border-radius:0;
+  }
