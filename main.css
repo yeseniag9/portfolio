@@ -61,6 +61,10 @@ i {
     flex-direction: column;
 }
 
+.contact-page {
+    height: 645px;
+}
+
 .btn.sharp {
     border-radius:0;
   }
