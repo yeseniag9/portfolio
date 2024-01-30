@@ -2,7 +2,7 @@ $(document).ready(function(){
     $(window).scroll(function(){
         var scroll = $(window).scrollTop();
         if (scroll > 111) {
-          $(".black").css("background" , "blue");
+          $("nav").css("background" , "url("images/bg-dubai.jpg")");
         }
   
         else{
