@@ -68,3 +68,8 @@ i {
 .btn.sharp {
     border-radius:0;
   }
+
+.random-page {
+    height: 111px;
+    background-color: blue;
+}
