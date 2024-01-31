@@ -3,17 +3,19 @@ body, html {
     margin: 0;
 }
 
-nav {
+#nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav {
     position: fixed;
     border-bottom: solid white;
     z-index: 1;
+    opacity: 0.1;
     padding: 10px;
-    opacity: 0.1
-}
-
-#elements-nav {
-    display: flex;
-    justify-content: space-between;
+    background-color: transparent;
+    transition: all .5s ease-in-out;
 }
 
 a {
@@ -72,4 +74,8 @@ i {
 .random-page {
     height: 111px;
     background-color: blue;
+}
+
+.scroll {
+    background-color: white;
 }

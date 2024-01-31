@@ -1,12 +1,10 @@
-$(document).ready(function(){
-    $(window).scroll(function(){
-        var scroll = $(window).scrollTop();
-        if (scroll > 111) {
-          $("nav").css("background" , "url('images/bg-dubai.jpg')");
-        }
-  
-        else{
-            $(".nav").css("background" , "white");  	
-        }
-    })
-  })
+var myNav = document.getElementById("nav");
+
+window.onscroll = function() {
+  "use strict";
+  if (document.body.scrollTop >= 111 || document.documentElement.scrollTop >= 111) {
+    myNav.classList.add("scroll");
+  } else {
+    myNav.classList.remove("scroll");
+  }
+};
