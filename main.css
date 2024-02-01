@@ -10,7 +10,7 @@ body, html {
 
 .nav {
     position: fixed;
-    border-bottom: solid white;
+    /* border-bottom: solid white; */
     z-index: 1;
     opacity: 0.1;
     padding: 10px;
