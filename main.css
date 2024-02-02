@@ -6,7 +6,7 @@ body, html {
 header {
     background-color: transparent;
     position: sticky;
-
+    transition: background-color .5s ease-in-out;
 }
 
 #nav {
@@ -19,19 +19,20 @@ header {
     z-index: 1;
     opacity: 0.1;
     padding: 10px;
-    transition: background-color .5s ease-in-out;
 }
 
-nav.scrolled {
+header.scrolled {
     background-color: white;
 }
 
-nav a {
+header nav a {
     transition: color 0.4s ease-in-out;
+    text-decoration: none;
+    color: white;
 }
 
-nav.scrolled a {
-    color: black;
+header.scrolled nav a {
+    color: transparent;
 }
 
 a {
@@ -43,8 +44,6 @@ a {
 }
 
 .link {
-    text-decoration: none;
-    color: white;
     z-index: 1;
     font-size: 18px;
     margin-left: 10px ;
@@ -87,12 +86,3 @@ i {
 .btn.sharp {
     border-radius:0;
   }
-
-.random-page {
-    height: 111px;
-    background-color: blue;
-}
-
-.scroll {
-    background-color: white;
-}
