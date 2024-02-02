@@ -5,9 +5,10 @@ body, html {
 
 .nav {
     position: fixed;
-    /* border-bottom: solid white; */
-    z-index: 1;
+    padding: 12px;
+
     opacity: 0.1;
+    z-index: 1;
     padding: 10px;
     display: flex;
     justify-content: space-between;
@@ -21,6 +22,7 @@ div nav a {
 }
 a {
     font-weight: bold;
+    color: white;
 }
 
 .link {
