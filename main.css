@@ -5,6 +5,7 @@ body, html {
 
 header {
     background-color: transparent;
+    position: sticky;
 
 }
 
@@ -14,7 +15,6 @@ header {
 }
 
 .nav {
-    position: fixed;
     /* border-bottom: solid white; */
     z-index: 1;
     opacity: 0.1;
