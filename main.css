@@ -14,12 +14,11 @@ body, html {
 }
 
 
-header nav a {
+div nav a {
     transition: color 0.4s ease-in-out;
     text-decoration: none;
     color: white;
 }
-
 a {
     font-weight: bold;
 }
