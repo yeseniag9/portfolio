@@ -3,18 +3,13 @@ body, html {
     margin: 0;
 }
 
-header {
-    background-color: transparent;
-    position: sticky;
-    transition: background-color .5s ease-in-out;
-}
-
 #nav {
     display: flex;
     justify-content: space-between;
 }
 
 .nav {
+    position: fixed;
     /* border-bottom: solid white; */
     z-index: 1;
     opacity: 0.1;
