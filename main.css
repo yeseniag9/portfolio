@@ -70,10 +70,6 @@ i {
     background-color: blue;
 }
 
-#col2 {
-    flex-direction: column;
-}
-
 .message {
     height: 945px;
 }
