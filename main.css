@@ -10,10 +10,16 @@ body, html {
     justify-content: space-between ;
     background-color: transparent;
     opacity: 0.1; 
+    color: white;
+}
+
+.intro {
+    display: flex;
+justify-content: center; /* Align horizontal */
+align-items: center; /* Align vertical */
 }
 
 div nav a {
-    transition: color 0.4s ease-in-out;
     text-decoration: none;
     color: white;
 }
@@ -26,16 +32,13 @@ a {
 .link {
     font-size: 18px;
     margin-left: 10px ;
+    text-decoration: none;
+
 }
 
 i {
-    text-decoration: none;
     color: white;
     font-size: 18px;
-}
-
-#col1 {
-    flex-direction: column;
 }
 
 .bg {
