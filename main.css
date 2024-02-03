@@ -8,22 +8,22 @@ body, html {
     padding: 12px;
     display: flex;
     justify-content: space-between ;
-    opacity: 0.99;
+    background-color: transparent;
+    opacity: 0.1; /////
 }
-
 
 div nav a {
     transition: color 0.4s ease-in-out;
     text-decoration: none;
     color: white;
 }
+
 a {
     font-weight: bold;
     color: white;
 }
 
 .link {
-    z-index: 1;
     font-size: 18px;
     margin-left: 10px ;
 }
@@ -49,7 +49,6 @@ i {
 
 .hi {
     border-bottom: solid blue;
-    z-index: 1;
 }
 
 .me {
