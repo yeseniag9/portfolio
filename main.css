@@ -8,7 +8,7 @@ body, html {
     padding: 12px;
     display: flex;
     justify-content: space-between ;
-    background-color: transparent;
+    background: transparent;
     opacity: 0.1; 
     color: white;
 }
@@ -41,7 +41,7 @@ i {
 }
 
 .bg {
-    background-image: url('images/bg-dubai.jpg');
+    background: url('images/bg-dubai.jpg');
     opacity: 0.4;
     height: 100%;
     background-position: center;
