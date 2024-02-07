@@ -14,9 +14,7 @@ body, html {
 }
 
 .intro {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    height: 945px;
 }
 
 div nav a {
