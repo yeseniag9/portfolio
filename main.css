@@ -13,25 +13,18 @@ body, html {
 }
 
 .nav {
-    position: fixed;
-    padding: 12px;
     display: flex;
     justify-content: space-between ;
-    background: transparent;
-    opacity: 0.1; 
+    position: fixed;
+    padding: 9px;
     color: white;
-
+    opacity: 0.1; 
 }
 
 .intro {
     height: 945px;
       
 }
-
-
-
-
-
 
 a {
     font-weight: bold;
