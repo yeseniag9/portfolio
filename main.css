@@ -3,6 +3,18 @@ body, html {
     margin: 0;
 }
 
+.bg {
+    background: url('images/bg-dubai.jpg');
+    opacity: 0.4;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
 .nav {
     position: fixed;
     padding: 12px;
@@ -38,15 +50,6 @@ a {
 i {
     color: white;
     font-size: 18px;
-}
-
-.bg {
-    background: url('images/bg-dubai.jpg');
-    opacity: 0.4;
-    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 .hi {
