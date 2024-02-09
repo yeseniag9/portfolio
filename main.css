@@ -60,3 +60,7 @@ i {
 .message {
     height: 945px;
 }
+
+.btn {
+    background-color: rgb(33, 156, 239);;
+}
