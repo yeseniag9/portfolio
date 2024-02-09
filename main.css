@@ -31,11 +31,15 @@ a {
     margin-left: 10px ;
     text-decoration: none;
     color: white;
+    opacity: 0.1; 
+
 }
 
 i {
     font-size: 18px;
     color: white;
+    opacity: 0.1; 
+
 }
 
 .hi {
@@ -63,30 +67,15 @@ i {
 
 nav.scroll {
     background-color: white;
-    color: #;
-
+    color: #eef;
 }
-
-/*#nav {
-    transition: background-color 0.3s ease;
-    background-color: transparent;
-    z-index: 1000;
-    display: flex;
-    justify-content: space-between ;
-    position: fixed;
-    padding: 9px;
-    opacity: 0.1; 
-
-} */
 
 nav {
     position: fixed;
-    top: 0;
-    left: 0;
-    height: 3em;
-    width: 100%;
+    padding: 9px;
     background-color: transparent;
-    box-sizing: border-box;
-    padding: 12px 18px;
+    width: 100%;
     transition: background-color 0.4s ease-out;
+    display: flex;
+    justify-content: space-between ;
   }
