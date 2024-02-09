@@ -12,10 +12,6 @@ body, html {
     opacity: 0.4;
 }
 
-.nav {
-   
-}
-
 .intro {
     height: 945px;
       
@@ -38,7 +34,6 @@ i {
     font-size: 18px;
     opacity: 0.1; 
     color: white;
-
 }
 
 .hi {
