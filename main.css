@@ -45,6 +45,7 @@ i {
 
 .hi {
     border-bottom: solid blue;
+    border-width: 3px;
 }
 
 .me {
