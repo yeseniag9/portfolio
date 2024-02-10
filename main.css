@@ -9,7 +9,7 @@ body, html {
     background-size: cover;
     background-repeat: no-repeat;
     height: 100%;
-    opacity: 0.4;
+    /* opacity: 0.4; */
 }
 
 .intro {
@@ -19,7 +19,6 @@ body, html {
 
 a {
     font-weight: bold;
-    overflow: hidden;
 }
 
 .name {
@@ -41,8 +40,6 @@ i {
     border-width: 3px;
     width: 50px;
     color: black;
-    opacity: 100%;
-
 }
 
 .me {
