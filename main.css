@@ -10,7 +10,7 @@ body, html {
     background-repeat: no-repeat;
     height: 100%;
     /* opacity: 0.4; */
-}
+} 
 
 .intro {
     height: 945px;
@@ -55,7 +55,7 @@ i {
 
 #nav.scroll {
     background-color: white;
-
+    color: black;
 }
 
 #nav {
@@ -64,7 +64,6 @@ i {
     transition: background-color 0.4s ease-out;
     display: flex;
     justify-content: space-between ;
-    color: white;
     padding: 15px;
     font-size: 18px;
 }
