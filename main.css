@@ -21,14 +21,12 @@ a {
 }
 
 .name {
-    font-size: 18px;
     text-decoration: none;
     opacity: 0.1; 
     color: white;
 }
 
 i {
-    font-size: 18px;
     opacity: 0.1; 
     color: white;
 }
@@ -65,5 +63,6 @@ i {
     display: flex;
     justify-content: space-between ;
     color: white;
-    padding: 9px;
+    padding: 15px;
+    font-size: 18px;
   }
