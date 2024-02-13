@@ -22,12 +22,10 @@ a {
 
 .name {
     text-decoration: none;
-    opacity: 0.1; 
     color: white;
 }
 
 i {
-    opacity: 0.1; 
     color: white;
 }
 
@@ -65,4 +63,5 @@ i {
     color: white;
     padding: 15px;
     font-size: 18px;
-  }
+    opacity: 0.1; 
+}
