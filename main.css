@@ -9,6 +9,7 @@ body, html {
     background-size: cover;
     background-repeat: no-repeat;
     height: 100%;
+    color: white;
     /* opacity: 0.4; */
 } 
 
@@ -22,14 +23,12 @@ a {
 
 .name {
     text-decoration: none;
-    color: white;
-    opacity: 0.1; 
+    opacity: 0.4; 
 
 }
 
 i {
-    color: white;
-    opacity: 0.1; 
+    opacity: 0.4; 
 
 }
 
@@ -55,7 +54,7 @@ i {
 
 #nav.scroll {
     background-color: white;
-    color: black;
+    color: green;
 }
 
 #nav {
