@@ -69,5 +69,10 @@ i {
 
 h1 {
     display: inline-block;
-    width: 400px;
+    width: 600px;
+}
+
+.intro-text {
+    font-size: 75px;
+    font-weight: bold;
 }
