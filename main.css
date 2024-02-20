@@ -80,3 +80,7 @@ h1 {
 .subtext {
     color: black;
 }
+
+.btn-primary {
+    background-color: rgb(33, 156, 239) !important;
+}
