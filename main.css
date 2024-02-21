@@ -4,13 +4,24 @@ body, html {
 }
 
 .bg {
-    background-image: url('images/dubai.jpg');
+    position: relative;
     background-position: center;
-    background-size: cover;
     background-repeat: no-repeat;
     height: 100%;
     color: white;
     /* opacity: 0.4; */
+
+    &::before {  
+        content: "";
+        background-image: url('images/dubai.jpg');
+        background-size: cover;
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        bottom: 0px;
+        left: 0px;
+        opacity: 0.75;
+    }
 } 
 
 .intro {
