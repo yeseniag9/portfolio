@@ -74,6 +74,7 @@ i {
 h1 {
     display: inline-block;
     width: 600px;
+    position: relative;
 }
 
 .intro-text {
@@ -82,6 +83,7 @@ h1 {
 }
 
 .subtext {
+    position: relative;
     color: black;
 }
 
