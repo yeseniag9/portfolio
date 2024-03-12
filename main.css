@@ -4,7 +4,9 @@ body, html {
 
 .bg {
     height: 100%;
-    color: white;
+
+
+
     /* opacity: 0.4; */
 
     &::before {  
