@@ -4,11 +4,6 @@ body, html {
 
 .bg {
     height: 100%;
-
-
-
-    /* opacity: 0.4; */
-
     &::before {  
         content: "";
         background-image: url('images/dubai.jpg');
