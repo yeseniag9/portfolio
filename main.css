@@ -4,8 +4,8 @@ body, html {
 
 .bg {
     height: 100%;
-    &::before {  
-        content: "";
+    &::before {
+        content: "";  
         background-image: url('images/dubai.jpg');
         background-size: cover;
         position: absolute;
@@ -88,5 +88,6 @@ h1 {
 }
 
 .btn-primary {
+    position: relative;
     background-color: rgb(33, 156, 239) !important;
 }
