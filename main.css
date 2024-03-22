@@ -24,6 +24,7 @@ html, body {
 a {
     font-weight: bold;
     color: white;
+    opacity: 0.1;
 }
 
 .name {
