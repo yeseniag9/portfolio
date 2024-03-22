@@ -32,11 +32,6 @@ a {
     text-decoration: none;
 }
 
-i {
-    opacity: 0.4; 
-
-}
-
 .hi {
     position: relative;
     border-bottom: solid rgb(33, 156, 239);
