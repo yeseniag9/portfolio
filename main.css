@@ -77,8 +77,3 @@ h1 {
     font-size: 75px;
     font-weight: bold;
 }
-
-.btn-primary {
-    position: relative;
-    background-color: rgb(33, 156, 239) !important;
-}
