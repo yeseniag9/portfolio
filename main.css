@@ -62,3 +62,8 @@ a.scroll {
     color: rgb(33, 156, 239);
     opacity: 1;
 }
+
+i {
+    color: white;
+    opacity: 0.1;
+}
