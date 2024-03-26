@@ -57,3 +57,7 @@ h1 {
     font-size: 75px;
     font-weight: bold;
 }
+
+a.scroll {
+    color: green;
+}
