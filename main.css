@@ -24,7 +24,6 @@ html, body {
 a {
     font-weight: bold;
     color: white;
-    opacity: 0.1;
     text-decoration: none;
 }
 
@@ -47,6 +46,7 @@ a {
     justify-content: space-between ;
     padding: 15px;
     font-size: 18px;
+    opacity: 0.1;
 }
 
 h1 {
