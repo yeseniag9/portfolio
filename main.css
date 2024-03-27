@@ -19,6 +19,7 @@ html, body {
 
 .intro {
     height: 945px;
+
 }
 
 a {
@@ -53,7 +54,6 @@ a {
 h1 {
     display: inline-block;
     width: 600px;
-    position: relative;
 }
 
 .intro-text {
