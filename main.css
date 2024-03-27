@@ -69,3 +69,7 @@ a.scroll {
 .else {
     position: relative;
 }
+
+#i.scroll {
+    color: rgb(33, 156, 239);
+}
