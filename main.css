@@ -86,11 +86,9 @@ p {
 .button {
     background-color: rgb(33, 156, 239);
     border: none;
-    color: black;
-    padding: 10px 20px;
+    color: white;
+    padding: 13px 25px;
     text-align: center;
-    text-decoration: none;
-    margin: 4px 2px;
     cursor: pointer;
-    border-radius: 16px;
+    border-radius: 36px;
 }
