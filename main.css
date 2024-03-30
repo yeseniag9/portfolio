@@ -99,3 +99,8 @@ p {
     background-color: white;
     color: black;
 }
+
+.about {
+    height: 945px;
+    background-color: rgb(33, 156, 239);
+}
