@@ -105,20 +105,23 @@ p {
     background-color: rgb(33, 156, 239);
 }
 
-#drop.scroll {
+#drop1.scroll {
     color: black;
 }
 
 .drop-links {
     display: none;
+    font-size: 15px;
 }
-
-.drop-links a:hover {background-color: #ddd;}
 
 .dropdown:hover .drop-links {display: block;}
 
-.dropdown:hover .drop-text {background-color: #3e8e41;}
+.drop-links a:hover {background-color: #ddd;}
 
 .drop-links a{
     display: block;
+}
+
+#drop2.scroll {
+    color: black;
 }

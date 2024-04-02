@@ -8,6 +8,9 @@ window.onscroll = () => {
   const i = document.querySelector('#i')
   if(this.scrollY <= 109) i.className = ''; else i.className = 'scroll';
 
-  const drop = document.querySelector('#drop')
-  if(this.scrollY <= 109) drop.className = ''; else drop.className = 'scroll';
+  const drop1 = document.querySelector('#drop1')
+  if(this.scrollY <= 109) drop1.className = ''; else drop1.className = 'scroll';
+
+  const drop2 = document.querySelector('#drop2')
+  if(this.scrollY <= 109) drop2.className = ''; else drop2.className = 'scroll';
 }
