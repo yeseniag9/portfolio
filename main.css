@@ -116,7 +116,7 @@ p {
 
 .dropdown:hover .drop-links {display: block;}
 
-.drop-links a:hover {background-color: #ddd;}
+.drop-links a:hover.scroll {background-color: #ddd;}
 
 .drop-links a{
     display: block;
