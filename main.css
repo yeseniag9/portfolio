@@ -113,5 +113,8 @@ p {
     display: none;
 }
 
+.drop-links a:hover {background-color: #ddd;}
 
+.dropdown:hover .drop-links {display: block;}
 
+.dropdown:hover .drop-text {background-color: #3e8e41;}
