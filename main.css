@@ -104,3 +104,7 @@ p {
     height: 945px;
     background-color: rgb(33, 156, 239);
 }
+
+#drop.scroll {
+    color: black;
+}
