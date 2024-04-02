@@ -107,21 +107,27 @@ p {
 
 #drop1.scroll {
     color: black;
+    font-size: 13px;
 }
 
 .drop-links {
     display: none;
-    font-size: 15px;
+    font-size: 16px;
 }
 
-.dropdown:hover .drop-links {display: block;}
+.dropdown:hover .drop-links {
+    display: block;
+}
 
-.drop-links a:hover.scroll {background-color: #ddd;}
+.drop-links a:hover.scroll {
+    background-color: #ddd;
+}
 
-.drop-links a{
+.drop-links a {
     display: block;
 }
 
 #drop2.scroll {
     color: black;
+    font-size: 13px;
 }
