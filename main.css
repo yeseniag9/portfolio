@@ -118,3 +118,7 @@ p {
 .dropdown:hover .drop-links {display: block;}
 
 .dropdown:hover .drop-text {background-color: #3e8e41;}
+
+.drop-links a{
+    display: block;
+}
