@@ -34,9 +34,27 @@ html, body {
     text-transform: uppercase;
 }
 
+.drop-links {
+    display: none;
+    font-size: 16px;
+    padding-top: 20px;
+}
+
 .intro {
     height: 945px;
 }
+
+h1 {
+    width: 600px;
+}
+
+.intro-text {
+    font-size: 75px;
+    font-weight: bold;
+}
+
+
+
 
 a {
     font-weight: bold;
@@ -55,15 +73,6 @@ a {
     color: rgb(33, 156, 239);
     opacity: 1;
     max-height: 50px;
-}
-
-h1 {
-    width: 600px;
-}
-
-.intro-text {
-    font-size: 75px;
-    font-weight: bold;
 }
 
 a.scroll {
@@ -110,12 +119,6 @@ p {
 #drop1.scroll {
     color: black;
     font-size: 13px;
-}
-
-.drop-links {
-    display: none;
-    font-size: 16px;
-    padding-top: 20px;
 }
 
 .dropdown:hover .drop-links {
