@@ -53,37 +53,6 @@ h1 {
     font-weight: bold;
 }
 
-
-
-
-a {
-    font-weight: bold;
-    color: white;
-    text-decoration: none;
-}
-
-.contact {
-    height: 945px;
-    background-color: rgb(33, 156, 239);
-}
-
-#nav.scroll {
-    background-color: white;
-    font-size: 15px;
-    color: rgb(33, 156, 239);
-    opacity: 1;
-    max-height: 50px;
-}
-
-a.scroll {
-    color: rgb(33, 156, 239);
-    opacity: 1;
-}
-
-#i.scroll {
-    color: black;
-}
-
 .line {
     border-bottom: solid rgb(33, 156, 239);
     border-width: 3px;
@@ -106,14 +75,51 @@ p {
     font-size: 15px;
 }
 
-.button:hover {
-    background-color: white;
-    color: black;
-}
-
 .about {
     height: 945px;
     background-color: rgb(33, 156, 239);
+}
+
+.projects {
+    height: 945px;
+    background-color: white;
+}
+
+.contact {
+    height: 945px;
+    background-color: rgb(33, 156, 239);
+}
+
+
+
+
+
+a {
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+
+#nav.scroll {
+    background-color: white;
+    font-size: 15px;
+    color: rgb(33, 156, 239);
+    opacity: 1;
+    max-height: 50px;
+}
+
+a.scroll {
+    color: rgb(33, 156, 239);
+    opacity: 1;
+}
+
+#i.scroll {
+    color: black;
+}
+
+.button:hover {
+    background-color: white;
+    color: black;
 }
 
 #drop1.scroll {
@@ -137,9 +143,4 @@ p {
 #drop2.scroll {
     color: black;
     font-size: 13px;
-}
-
-.projects {
-    height: 945px;
-    background-color: white;
 }
