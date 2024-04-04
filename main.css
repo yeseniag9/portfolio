@@ -29,6 +29,7 @@ a {
 
 .contact {
     height: 945px;
+    background-color: rgb(33, 156, 239);
 }
 
 #nav.scroll {
@@ -132,4 +133,9 @@ p {
 #drop2.scroll {
     color: black;
     font-size: 13px;
+}
+
+.projects {
+    height: 945px;
+    background-color: white;
 }
