@@ -125,6 +125,7 @@ p {
 
 .drop-links a {
     display: block;
+    color: black
 }
 
 #drop2.scroll {
