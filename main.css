@@ -34,10 +34,43 @@ html, body {
     text-transform: uppercase;
 }
 
+#nav.scroll {
+    background-color: white;
+    font-size: 15px;
+    color: rgb(33, 156, 239);
+    opacity: 1;
+    max-height: 50px;
+}
+
+a {
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+
+a.scroll {
+    color: rgb(33, 156, 239);
+    opacity: 1;
+}
+
 .drop-links {
     display: none;
     font-size: 16px;
     padding-top: 20px;
+}
+
+#drop1.scroll {
+    color: black;
+    font-size: 13px;
+}
+
+#drop2.scroll {
+    color: black;
+    font-size: 13px;
+}
+
+#i.scroll {
+    color: black;
 }
 
 .intro {
@@ -75,6 +108,11 @@ p {
     font-size: 15px;
 }
 
+.button:hover {
+    background-color: white;
+    color: black;
+}
+
 .about {
     height: 945px;
     background-color: rgb(33, 156, 239);
@@ -94,39 +132,6 @@ p {
 
 
 
-a {
-    font-weight: bold;
-    color: white;
-    text-decoration: none;
-}
-
-#nav.scroll {
-    background-color: white;
-    font-size: 15px;
-    color: rgb(33, 156, 239);
-    opacity: 1;
-    max-height: 50px;
-}
-
-a.scroll {
-    color: rgb(33, 156, 239);
-    opacity: 1;
-}
-
-#i.scroll {
-    color: black;
-}
-
-.button:hover {
-    background-color: white;
-    color: black;
-}
-
-#drop1.scroll {
-    color: black;
-    font-size: 13px;
-}
-
 .dropdown:hover .drop-links {
     display: block;
 }
@@ -138,9 +143,4 @@ a.scroll {
 .drop-links a {
     display: block;
     color: black
-}
-
-#drop2.scroll {
-    color: black;
-    font-size: 13px;
 }
