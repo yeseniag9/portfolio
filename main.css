@@ -53,10 +53,23 @@ a.scroll {
     opacity: 1;
 }
 
+.dropdown:hover .drop-links {
+    display: block;
+}
+
 .drop-links {
     display: none;
     font-size: 16px;
     padding-top: 20px;
+}
+
+.drop-links a {
+    display: block;
+    color: black
+}
+
+.drop-links a:hover.scroll {
+    background-color: #ddd;
 }
 
 #drop1.scroll {
@@ -126,21 +139,4 @@ p {
 .contact {
     height: 945px;
     background-color: rgb(33, 156, 239);
-}
-
-
-
-
-
-.dropdown:hover .drop-links {
-    display: block;
-}
-
-.drop-links a:hover.scroll {
-    background-color: #ddd;
-}
-
-.drop-links a {
-    display: block;
-    color: black
 }
