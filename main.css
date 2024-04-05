@@ -68,6 +68,10 @@ a.scroll {
     color: black
 }
 
+.drop-links a:hover {
+    color: white;
+}
+
 .drop-links a:hover.scroll {
     background-color: #ddd;
 }
