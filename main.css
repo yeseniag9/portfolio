@@ -90,6 +90,10 @@ a.scroll {
     color: black;
 }
 
+#i:hover.scroll {
+    color: rgb(33, 156, 239);
+}
+
 .intro {
     height: 945px;
 }
