@@ -145,6 +145,12 @@ p {
     color: white;
 }
 
+.line2 {
+    border-bottom: solid black;
+    border-width: 3px;
+    width: 50px;
+}
+
 .projects {
     height: 885px;
     background-color: white;
