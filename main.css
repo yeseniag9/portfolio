@@ -152,6 +152,10 @@ p {
     margin-left: 1095px;
 }
 
+.about-text {
+    font-size: 18px;
+}
+
 .resume-button {
     background-color: white;
     border: none;
