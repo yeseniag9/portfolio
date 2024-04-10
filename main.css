@@ -153,9 +153,9 @@ p {
 }
 
 .resume-button {
-    background-color: rgb(33, 156, 239);
+    background-color: white;
     border: none;
-    color: white;
+    color: black;
     padding: 13px 25px;
     text-align: center;
     cursor: pointer;
@@ -165,8 +165,8 @@ p {
 }
 
 .resume-button:hover {
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: white;
 }
 
 .projects {
