@@ -186,6 +186,10 @@ p {
     padding: 70px;
 }
 
+.contact-items {
+    display: block;
+}
+
 footer {
     height: 162px;
     display: flex;
