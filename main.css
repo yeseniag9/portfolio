@@ -186,12 +186,6 @@ p {
     padding: 70px;
 }
 
-.line3 {
-    border-bottom: solid black;
-    border-width: 3px;
-    width: 50px;
-}
-
 footer {
     height: 162px;
     display: flex;
