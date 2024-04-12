@@ -196,9 +196,17 @@ footer {
     padding-top: 60px;
 }
 
+.linkedin:hover {
+    color: rgb(33, 156, 239);
+}
+
 .github {
     color: black;
     font-size: 50px;
     padding-top: 60px;
     padding-left: 100px;
+}
+
+.github:hover {
+    color: rgb(33, 156, 239);
 }
