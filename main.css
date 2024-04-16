@@ -188,6 +188,7 @@ p {
 
 .name-email {
     width: 500px;
+    display: inline-flex;    
 }
 
 footer {
