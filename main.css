@@ -197,7 +197,7 @@ input[type=text] {
 }
 
 input[type=text]:focus {
-    border: 3px solid black;
+    border: 3px solid rgb(48,48,48);
 }
 
 .email {
