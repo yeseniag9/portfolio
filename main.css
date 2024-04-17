@@ -192,6 +192,7 @@ p {
 
 input[type=text] {
     border: 3px solid #ddd;
+    padding: 8px;
 }
 
 .email {
