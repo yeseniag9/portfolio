@@ -194,6 +194,7 @@ input[type=text] {
     border: 3px solid #ddd;
     padding: 8px;
     outline: none;
+    margin: 1px;
 }
 
 input[type=text]:focus {
