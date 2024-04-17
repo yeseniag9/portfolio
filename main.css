@@ -186,12 +186,9 @@ p {
     padding: 70px;
 }
 
-/* .name-email {
-    display: block;
-}
-
 .name {
-    margin: 15px;
+    float: left;
+    margin-right: 20px;
 }
 
 input[type=text] {
@@ -205,16 +202,7 @@ input[type=text]:focus {
     border: 3px solid rgb(48,48,48);
 }
 
-.email {
-    margin: 15px;
-} */
-
-.name {
-    float: left;
-    margin-right: 20px;
-}
-
-input, label {
+label, input {
     display: block;
 }
 
