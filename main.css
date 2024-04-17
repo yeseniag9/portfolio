@@ -186,12 +186,12 @@ p {
     padding: 70px;
 }
 
-.name-email {
-    height: 120px;
-}
-
 .name {
     margin: 15px;
+}
+
+input[type=text] {
+    border: 3px solid #ddd;
 }
 
 .email {
