@@ -186,6 +186,10 @@ p {
     padding: 70px;
 }
 
+/* .name-email {
+    display: block;
+}
+
 .name {
     margin: 15px;
 }
@@ -203,6 +207,19 @@ input[type=text]:focus {
 
 .email {
     margin: 15px;
+} */
+
+.name {
+    float: left;
+    margin-right: 20px;
+}
+
+input, label {
+    display: block;
+}
+
+.email {
+    float: left;
 }
 
 footer {
