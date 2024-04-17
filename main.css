@@ -196,6 +196,10 @@ input[type=text] {
     outline: none;
 }
 
+input[type=text]:focus {
+    border: 3px solid black;
+}
+
 .email {
     margin: 15px;
 }
