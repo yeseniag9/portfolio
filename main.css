@@ -229,6 +229,11 @@ label, input {
     margin-right: 15px;
 }
 
+.form-button:hover {
+    background-color: black;
+    color: white;
+}
+
 footer {
     height: 162px;
     display: flex;
