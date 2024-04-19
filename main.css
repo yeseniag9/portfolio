@@ -211,6 +211,10 @@ label, input {
     float: left;
 }
 
+.message {
+    min-height: 200px;
+}
+
 footer {
     height: 162px;
     display: flex;
