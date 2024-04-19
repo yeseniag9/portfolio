@@ -199,18 +199,19 @@ form {
     min-width: 230px;
 }
 
-input[type=text] {
+textarea[type=text] {
     border: 3px solid #ddd;
     padding: 8px;
     outline: none;
     margin: 1px;
+    resize: none;
 }
 
-input[type=text]:focus {
+textarea[type=text]:focus {
     border: 3px solid black;
 }
 
-label, input {
+label, textarea {
     display: block;
     font-weight: 500;
 }
