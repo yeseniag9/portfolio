@@ -213,6 +213,7 @@ label, input {
 
 .message {
     min-height: 200px;
+    min-width: 430px;
 }
 
 footer {
