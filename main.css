@@ -216,6 +216,10 @@ label, input {
     min-width: 430px;
 }
 
+.form-button {
+    
+}
+
 footer {
     height: 162px;
     display: flex;
