@@ -186,6 +186,10 @@ p {
     padding: 70px;
 }
 
+form {
+    padding: 35px;
+}
+
 .name {
     float: left;
     margin-right: 20px;
