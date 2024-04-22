@@ -76,6 +76,10 @@ a.scroll {
     background-color: #ddd;
 }
 
+#about {
+    scroll-margin-top: 50px;
+}
+
 #drop1.scroll {
     color: black;
     font-size: 13px;
