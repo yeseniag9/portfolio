@@ -85,6 +85,10 @@ a.scroll {
     font-size: 13px;
 }
 
+#projects {
+    scroll-margin-top: 50px;
+}
+
 #drop2.scroll {
     color: black;
     font-size: 13px;
