@@ -14,3 +14,7 @@ window.onscroll = () => {
   const i = document.querySelector('#i')
   if(this.scrollY <= 109) i.className = ''; else i.className = 'scroll';
 }
+
+if ('scrollRestoration' in history) { 
+  history.scrollRestoration = 'manual';
+}
