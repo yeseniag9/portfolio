@@ -65,7 +65,8 @@
     <section id="contact" class="contact container-fluid">
         <div class="row">
             <h2 class="d-flex justify-content-center">Let's chat.</h2>
-            <form action="" name="contact-form" method="POST">
+            <form action="" name="contact-form" method="POST" onsubmit="return validateForm()">
+                {% csrf_token %}
                 <div class="d-flex justify-content-center">
                     <div class="name">
                         <label for="name">Name</label>
