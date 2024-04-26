@@ -14,8 +14,3 @@ window.onscroll = () => {
   const i = document.querySelector('#i')
   if(this.scrollY <= 109) i.className = ''; else i.className = 'scroll';
 }
-
-var frmvalidator = new frmvalidator('contactform'); 
-frmvalidator.addValidation('name','req','Please provide your name'); 
-frmvalidator.addValidation('email','req','Please provide your email'); 
-frmvalidator.addValidation('email','email', 'Please enter a valid email address');
