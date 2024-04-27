@@ -275,11 +275,7 @@ label, textarea {
     color: white;
 }
 
-.footer {
-    border: solid red;
-}
-
-footer {
+/* footer {
     height: 162px;
     display: flex;
     justify-content: center;
@@ -304,4 +300,12 @@ footer {
 
 .github:hover {
     color: rgb(33, 156, 239);
+} */
+
+.linkedin {
+    color: black;
+}
+
+.github {
+    color: black;
 }
