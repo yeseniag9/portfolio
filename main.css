@@ -275,12 +275,9 @@ label, textarea {
     color: white;
 }
 
-/* footer {
-    height: 162px;
-}
+/* 
 
 .linkedin {
-    color: black;
     font-size: 50px;
 }
 
@@ -289,9 +286,7 @@ label, textarea {
 }
 
 .github {
-    color: black;
     font-size: 50px;
-    padding-left: 100px;
 }
 
 .github:hover {
