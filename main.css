@@ -274,29 +274,24 @@ label, textarea {
     background-color: black;
     color: white;
 }
-
-/* 
+.footer {
+    font-size: 50px;    
+}
 
 .linkedin {
-    font-size: 50px;
+    color: black;
 }
+
+.github {
+    color: black;
+}
+
+/* 
 
 .linkedin:hover {
     color: rgb(33, 156, 239);
 }
 
-.github {
-    font-size: 50px;
-}
-
 .github:hover {
     color: rgb(33, 156, 239);
 } */
-
-.linkedin {
-    color: black;
-}
-
-.github {
-    color: black;
-}
