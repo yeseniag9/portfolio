@@ -282,7 +282,6 @@ label, textarea {
 .linkedin {
     color: black;
     font-size: 50px;
-    padding-top: 60px;
 }
 
 .linkedin:hover {
@@ -292,7 +291,6 @@ label, textarea {
 .github {
     color: black;
     font-size: 50px;
-    padding-top: 60px;
     padding-left: 100px;
 }
 
