@@ -282,16 +282,14 @@ label, textarea {
     color: black;
 }
 
-.github {
-    color: black;
-}
-
-/* 
-
 .linkedin:hover {
     color: rgb(33, 156, 239);
 }
 
+.github {
+    color: black;
+}
+
 .github:hover {
     color: rgb(33, 156, 239);
-} */
+}
