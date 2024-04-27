@@ -40,6 +40,7 @@ html, body {
     color: rgb(33, 156, 239);
     opacity: 1;
     max-height: 50px;
+    border: solid red;
 }
 
 a {
@@ -188,10 +189,12 @@ p {
 }
 
 .contact {
-    height: 718px;
+    height: 700px;
     background-color: rgb(33, 156, 239);
     color: white;
     padding: 100px;
+    border: solid green;
+
 }
 
 form {
