@@ -1,3 +1,9 @@
+footer {
+    font-size: 52px;    
+}
+
+
+
 html, body {
     height: 100%;
 }
@@ -274,15 +280,6 @@ label, textarea {
     background-color: black;
     color: white;
 }
-
-footer {
-    font-size: 52px;    
-}
-
-
-
-
-
 
 .linkedin {
     color: black;
