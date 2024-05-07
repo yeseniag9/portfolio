@@ -10,6 +10,14 @@ footer {
     color: rgb(33, 156, 239);
 }
 
+.github {
+    color: black;
+}
+
+.github:hover {
+    color: rgb(33, 156, 239);
+}
+
 
 
 html, body {
@@ -289,10 +297,3 @@ label, textarea {
     color: white;
 }
 
-.github {
-    color: black;
-}
-
-.github:hover {
-    color: rgb(33, 156, 239);
-}
