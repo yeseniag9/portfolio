@@ -2,6 +2,14 @@ footer {
     font-size: 52px;    
 }
 
+.linkedin {
+    color: black;
+}
+
+.linkedin:hover {
+    color: rgb(33, 156, 239);
+}
+
 
 
 html, body {
@@ -279,14 +287,6 @@ label, textarea {
 .form-button:hover {
     background-color: black;
     color: white;
-}
-
-.linkedin {
-    color: black;
-}
-
-.linkedin:hover {
-    color: rgb(33, 156, 239);
 }
 
 .github {
