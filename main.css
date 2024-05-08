@@ -211,12 +211,13 @@ p {
     border: solid purple;
 }
 
+
+
 .contact {
     height: 714px;
     background-color: rgb(33, 156, 239);
     color: white;
     padding: 100px;
-    border: solid green;
 }
 
 form {
