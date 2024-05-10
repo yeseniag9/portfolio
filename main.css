@@ -215,7 +215,7 @@ p {
 .contact {
     background-color: rgb(33, 156, 239);
     color: white;  
-    padding: 135px;
+    padding: 151px;
 }
 
 .name2 {
@@ -279,4 +279,7 @@ label, textarea {
     color: white;
 }
 
-/* Page reload to top of page functionality */
+/* 
+    Page reload to top of page functionality
+    Finalize padding for contact page
+*/
