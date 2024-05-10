@@ -218,10 +218,10 @@ p {
     padding: 135px;
 }
 
-.name {
+/* .name {
     float: left;
     margin-right: 20px;
-}
+} */
 
 .name2 {
     min-width: 230px;
@@ -259,9 +259,9 @@ label, textarea {
     font-weight: 500;
 }
 
-.email {
+/* .email {
     float: left;
-}
+} */
 
 .email2 {
     min-width: 230px; 
