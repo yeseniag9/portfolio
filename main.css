@@ -224,7 +224,7 @@ p {
 } */
 
 .name2 {
-    min-width: 230px;
+    min-width: 238px;
 }
 
 input[type=text] {
@@ -264,7 +264,7 @@ label, textarea {
 } */
 
 .email2 {
-    min-width: 230px; 
+    min-width: 238px; 
 }
 
 .message {
