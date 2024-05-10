@@ -1,3 +1,9 @@
+.contact {
+    background-color: rgb(33, 156, 239);
+    color: white;  
+    padding: 151px;
+}
+
 footer {
     font-size: 52px;    
 }
@@ -212,11 +218,6 @@ p {
 
 
 
-.contact {
-    background-color: rgb(33, 156, 239);
-    color: white;  
-    padding: 151px;
-}
 
 .name2 {
     min-width: 238px;
