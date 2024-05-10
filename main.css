@@ -239,7 +239,6 @@ input[type=text]:focus {
 }
 
 label, input {
-    display: block;
     font-weight: 500;
 }
 
