@@ -213,10 +213,9 @@ p {
 
 
 .contact {
-    height: 705px;
+    /* height: 705px; */
     background-color: rgb(33, 156, 239);
-    color: white;
-    padding-top: 200px;
+    color: white;    
 }
 
 .name {
