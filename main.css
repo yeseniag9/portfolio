@@ -256,8 +256,8 @@ label, textarea {
 }
 
 .email2 {
-    min-width: 230px;  
-    margin-left: 10px;
+    min-width: 230px; 
+    margin-left: 10px; 
 }
 
 .message {
@@ -279,6 +279,10 @@ label, textarea {
 .form-button:hover {
     background-color: black;
     color: white;
+}
+
+.email3 {
+    margin-left: 10px;
 }
 
 /* 
