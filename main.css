@@ -283,4 +283,9 @@ label, textarea {
 /* 
     Page reload to top of page functionality
     Finalize padding for contact page
+    Check chat icon leads to contact page
 */
+
+h2 {
+    font-weight: normal;
+}
