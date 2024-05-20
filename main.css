@@ -26,6 +26,10 @@ footer {
 
 
 
+* {
+    transition-duration: 200ms;
+}
+
 html, body {
     height: 100%;
 }
