@@ -325,3 +325,7 @@ label, textarea {
     margin-bottom: 10px;
     font-weight: bold;
 }
+
+.contact form {
+    width: 600px;
+}
