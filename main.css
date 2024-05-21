@@ -26,9 +26,7 @@ footer {
 
 
 
-* {
-    transition-duration: 200ms;
-}
+
 
 html, body {
     height: 100%;
@@ -312,4 +310,8 @@ label, textarea {
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+}
+
+.contact {
+    min-height: 100vh;
 }
