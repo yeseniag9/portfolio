@@ -291,6 +291,14 @@ label, textarea {
     margin-left: 10px;
 }
 
+.field .error-text {
+    font-size: 14.5px;
+    color: #d93025;
+    text-align: left;
+    margin: -5px 0 10px;
+    display: none;
+}
+
 /* 
     Page reload to top of page functionality
     Finalize padding for contact page
