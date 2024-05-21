@@ -1,8 +1,8 @@
-.contact {
+/* .contact {
     padding: 151px;
     background-color: rgb(33, 156, 239);
     color: white;  
-}
+} */
 
 footer {
     font-size: 52px;    
@@ -220,7 +220,7 @@ p {
     border: solid purple;
 }
 
-h2 {
+/* h2 {
     font-weight: normal;
 }
 
@@ -297,7 +297,7 @@ label, textarea {
     text-align: left;
     margin: -5px 0 10px;
     display: none;
-}
+} */
 
 /* 
     Page reload to top of page functionality
