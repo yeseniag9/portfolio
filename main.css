@@ -324,8 +324,15 @@ label, textarea {
     color: #ededed;
     margin-bottom: 10px;
     font-weight: bold;
+    text-align: center;
 }
 
 .contact form {
     width: 600px;
+    text-align: center;
+}
+
+form .input-box {
+    display: flex;
+    justify-content: space-between;
 }
