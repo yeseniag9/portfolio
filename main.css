@@ -337,6 +337,10 @@ form .input-box {
     justify-content: space-between;
 }
 
+.input-box .input-field {
+    width: 48.5%;
+}
+
 .field .item {
     width: 100%;
     padding: 18px;
