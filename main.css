@@ -361,3 +361,11 @@ form .textarea-field .item {
     resize: none;
 }
 
+form button {
+    padding: 12px 32px;
+    background: #0ef;
+    border: none;
+    outline: none;
+    border-radius: 6px;
+    box-shadow: 0 0 10px #0ef;
+}
