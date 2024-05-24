@@ -17,11 +17,11 @@ window.onscroll = () => {
 
 
 const form = document.querySelector("form");
-
-/* const fullName = document.getElementById("name");
+const fullName = document.getElementById("name");
 const email = document.getElementById("email");
-const mess = document.getElementById("message"); */
-
+const phone = document.getElementById("phone");
+const subject = document.getElementById("subject");
+const mess = document.getElementById("message");
 
 function sendEmail() {
     Email.send({
