@@ -35,7 +35,11 @@ function sendEmail() {
         Subject: subject.value,
         Body: bodyMessage
     }).then(
-        message => alert(message)
+        message => {
+            if (message == "OK") {
+                
+            }
+        }
     );
 }
 
