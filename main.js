@@ -15,23 +15,25 @@ window.onscroll = () => {
   if(this.scrollY <= 109) i.className = ''; else i.className = 'scroll';
 }
 
-const form = document.querySelector("form");
+
+const form = document.querySelector('form');
 const fullName = document.getElementById("name");
 const email = document.getElementById("email");
 const mess = document.getElementById("message");
 
 
 function sendEmail() {
-  Email.send({
-    Host : "smtp.elasticemail.com",
-    Username : "yeseniaaag9@gmail.com",
-    Password : "364740E302C6E6D88D970BC6F25D9599AF8C",
-    To : 'yeseniaaag9@gmail.com',
-    From : "yeseniaaag9@gmail.com",
-    Body : "And this is the body"
-  }).then(
-    message => alert(message)
-  );
+    Email.send({
+        Host: "smtp.elasticemail.com",
+        Username: "username",
+        Password: "password",
+        To: 'them@website.com',
+        From: "you@isp.com",
+        Subject: "This is the subject",
+        Body: "And this is the body"
+    }).then(
+        message => alert(message)
+    );
 }
 
 form.addEventListener("submit", (e) => {
