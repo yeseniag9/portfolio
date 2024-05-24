@@ -33,7 +33,7 @@ function sendEmail() {
         To: 'gonz.yesenia10@gmail.com',
         From: "gonz.yesenia10@gmail.com",
         Subject: "This is the subject",
-        Body: "And this is the body"
+        Body: bodyMessage
     }).then(
         message => alert(message)
     );
