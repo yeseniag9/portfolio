@@ -16,19 +16,20 @@ window.onscroll = () => {
 }
 
 
-const form = document.querySelector('form');
-const fullName = document.getElementById("name");
+const form = document.querySelector("form");
+
+/* const fullName = document.getElementById("name");
 const email = document.getElementById("email");
-const mess = document.getElementById("message");
+const mess = document.getElementById("message"); */
 
 
 function sendEmail() {
     Email.send({
         Host: "smtp.elasticemail.com",
-        Username: "username",
-        Password: "password",
-        To: 'them@website.com',
-        From: "you@isp.com",
+        Username: "gonz.yesenia10@gmail.com",
+        Password: "1400CF615AEB3F01887EA6BB05B8F0DC376C",
+        To: 'gonz.yesenia10@gmail.com',
+        From: "gonz.yesenia10@gmail.com",
         Subject: "This is the subject",
         Body: "And this is the body"
     }).then(
@@ -37,7 +38,7 @@ function sendEmail() {
 }
 
 form.addEventListener("submit", (e) => {
-  e.preventDefault();
+    e.preventDefault();
 
-  sendEmail();
+    sendEmail();
 });
