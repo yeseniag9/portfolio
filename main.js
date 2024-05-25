@@ -69,6 +69,19 @@ function checkInputs() {
     }
 }
 
+function checkEmail() {
+    const emailRegex = /^([a-z\d\.-]+)@([a-z\d-]+)\.([a-z]{2,3})(\.[a-z]{2,3})?$/;
+
+    if (!email.value.match(emailRegex)) {
+        email.classList.add("error");
+        email.parentElement.classList.add("error");
+    }
+    else {
+        email.classList.remove("error");
+        email.parentElement.classList.remove("error");
+    }
+}
+
 form.addEventListener("submit", (e) => {
     e.preventDefault();
     checkInputs();
