@@ -56,6 +56,14 @@ function checkInputs() {
             item.parentElement.classList.add("error");
         }
 
+        if (items[1].value != "") {
+            checkEmail();
+        }
+
+        items[1].addEventListener("keyup", () => {
+            checkEmail();
+        });
+
         item.addEventListener("keyup", () => {
             if (item.value != "") {
                 item.classList.remove("error");
