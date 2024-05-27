@@ -221,91 +221,11 @@ p {
     border: solid purple;
 }
 
-/* h2 {
-    font-weight: normal;
-}
-
-
-
-
-.name2 {
-    margin-right: 10px;
-}
-
-input[type=text] {
-    border: 3px solid #ddd;
-    padding: 13px;
-    outline: none;
-}
-
-input[type=text]:focus {
-    border: 3px solid black;
-}
-
-label, input {
-    font-weight: 500;
-}
-
-textarea[type=text] {
-    border: 3px solid #ddd;
-    padding: 10px;
-    outline: none;
-    margin: 1px;
-    resize: none;
-}
-
-textarea[type=text]:focus {
-    border: 3px solid black;
-}
-
-label, textarea {
-    display: block;
-    font-weight: 500;
-}
-
-.email2 {
-    margin-left: 10px; 
-}
-
-.message {
-    min-height: 200px;
-    min-width: 450px;
-}
-
-.form-button {
-    background-color: white;
-    border: none;
-    color: black;
-    padding: 13px 25px;
-    text-align: center;
-    border-radius: 36px;
-    font-weight: bold;
-    font-size: 15px;
-}
-
-.form-button:hover {
-    background-color: black;
-    color: white;
-}
-
-.email3 {
-    margin-left: 10px;
-}
-
-.field .error-text {
-    font-size: 14.5px;
-    color: #d93025;
-    text-align: left;
-    margin: -5px 0 10px;
-    display: none;
-} */
-
 /* 
     Page reload to top of page functionality
     Finalize padding for contact page
     Check chat icon leads to contact page
 */
-
 
 * {
     margin: 0;
