@@ -25,12 +25,10 @@ footer {
 
 
 
-html, body {
-    height: 100%;
-}
 
 .home {
-    height: 100%;
+    margin-bottom: -19px;
+    border: solid red;
     &::before {
         content: "";  
         background-image: url('images/chicago.jpg');
