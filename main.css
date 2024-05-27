@@ -31,13 +31,14 @@ footer {
     &::before {
         content: "";  
         background-image: url('images/chicago.jpg');
-        background-size: cover;
         position: absolute;
+        background-size: cover;
         top: 0px;
         right: 0px;
         bottom: 0px;
         left: 0px;
         opacity: 0.60;
+        margin-bottom: 3px;
     }
 } 
 
