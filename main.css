@@ -28,7 +28,6 @@ footer {
 
 .home {
     margin-bottom: -19px;
-    border: solid red;
     &::before {
         content: "";  
         background-image: url('images/chicago.jpg');
