@@ -19,15 +19,14 @@ window.onscroll = () => {
 const form = document.querySelector("form");
 const fullName = document.getElementById("name");
 const email = document.getElementById("email");
-const phone = document.getElementById("phone");
 const subject = document.getElementById("subject");
 const mess = document.getElementById("message");
 
 function sendEmail() {
-    const bodyMessage = `Full Name: ${fullName.value}<br> Email: ${email.value}<br> Phone Number: ${phone.value}<br> Message: ${mess.value}`;
+    const bodyMessage = `Full Name: ${fullName.value}<br> Email: ${email.value}<br> Message: ${mess.value}`;
 
     Email.send({
-        SecureToken: "355eeb7a-9b3d-43f5-a920-149ba1a4ca79",
+        SecureToken: "ec5c29b7-ec0e-431e-8329-0734a6497130",
         To: 'gonz.yesenia10@gmail.com',
         From: "gonz.yesenia10@gmail.com",
         Subject: subject.value,
@@ -100,7 +99,7 @@ form.addEventListener("submit", (e) => {
     e.preventDefault();
     checkInputs();
 
-    if (!fullName.classList.contains("error") && !email.classList.contains("error") && !phone.classList.contains("error") && !subject.classList.contains("error") && !mess.classList.contains("error")) {
+    if (!fullName.classList.contains("error") && !email.classList.contains("error") && !subject.classList.contains("error") && !mess.classList.contains("error")) {
         sendEmail();
 
         form.reset();

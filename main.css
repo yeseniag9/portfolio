@@ -219,8 +219,8 @@ p {
 }
 
 .contact {
-    min-height: 100vh;
     background: #1f242d;
+    min-height: 100vh;
 }
 
 .contact h2 {
