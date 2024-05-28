@@ -13,7 +13,7 @@ window.onscroll = () => {
 
   const i = document.querySelector('#i')
   if(this.scrollY <= 109) i.className = ''; else i.className = 'scroll';
-}
+} 
 
 
 const form = document.querySelector("form");
