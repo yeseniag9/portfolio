@@ -249,7 +249,7 @@ form .input-box {
     width: 100%;
     padding: 18px;
     background: transparent;
-    border: 2px solid #0ef;
+    border: 2px solid rgb(33, 156, 239);
     outline: none;
     border-radius: 6px;
     font-size: 16px;
