@@ -167,7 +167,7 @@ p {
 }
 
 .about {
-    height: 880px;
+    min-height: 100vh;
     background: #1f242d;
     color: white;
 }
