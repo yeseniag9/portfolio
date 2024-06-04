@@ -292,14 +292,12 @@ form button {
     color: #333;
     margin-top: 20px;
     padding: 13px 26px;
+    border-radius: 6px;
 
 
     border: none;
-    outline: none;
-    border-radius: 6px;
     letter-spacing: 1px;
     font-weight: bold;
-
     text-transform: uppercase;
 }
 
