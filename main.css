@@ -291,9 +291,10 @@ form button {
     font-size: 15px;
     color: #333;
     margin-top: 20px;
+    padding: 13px 26px;
 
 
-    padding: 12px 32px;
+
     border: none;
     outline: none;
     border-radius: 6px;
