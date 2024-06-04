@@ -287,13 +287,15 @@ form .textarea-field .error-txt {
 }
 
 form button {
-    padding: 12px 32px;
     background: rgb(33, 156, 239);
+    font-size: 15px;
+
+
+    padding: 12px 32px;
     border: none;
     outline: none;
     border-radius: 6px;
     /* box-shadow: 0 0 10px white; */
-    font-size: 15px;
     color: #333;
     letter-spacing: 1px;
     font-weight: bold;
