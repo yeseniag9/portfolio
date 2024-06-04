@@ -3,6 +3,12 @@
     min-height: 100vh;
 }
 
+.contact h2 {
+    font-size: 40px;
+    color: #ededed;
+    margin-bottom: 10px;
+}
+
 footer {
     background: #ededed;
     font-size: 52px;    
@@ -221,12 +227,6 @@ p {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-
-.contact h2 {
-    font-size: 40px;
-    color: #ededed;
-    margin-bottom: 10px;
 }
 
 .contact form {
