@@ -295,7 +295,7 @@ form button {
     font-size: 16px;
     color: #333;
     letter-spacing: 1px;
-    font-weight: 600;
+    font-weight: bold;
     cursor: pointer;
     margin-top: 20px;
     transition: .5s;
