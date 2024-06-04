@@ -294,11 +294,9 @@ form button {
     padding: 13px 26px;
 
 
-
     border: none;
     outline: none;
     border-radius: 6px;
-    /* box-shadow: 0 0 10px white; */
     letter-spacing: 1px;
     font-weight: bold;
     cursor: pointer;
