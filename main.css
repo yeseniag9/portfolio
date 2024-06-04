@@ -227,7 +227,6 @@ p {
     font-size: 40px;
     color: #ededed;
     margin-bottom: 10px;
-    font-weight: bold;
 }
 
 .contact form {
@@ -291,13 +290,14 @@ form button {
     outline: none;
     border-radius: 6px;
     /* box-shadow: 0 0 10px white; */
-    font-size: 16px;
+    font-size: 15px;
     color: #333;
     letter-spacing: 1px;
     font-weight: bold;
     cursor: pointer;
     margin-top: 20px;
     transition: .5s;
+    text-transform: uppercase;
 }
 
 form button:hover {
