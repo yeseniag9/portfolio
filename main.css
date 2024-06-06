@@ -252,12 +252,7 @@ p {
     box-sizing: border-box;
 }
 
-form .input-box {
-    display: flex;
-    justify-content: space-between;
-}
-
-.input-box .input-field {
+.name-email .input-field {
     width: 48.5%;
 }
 
