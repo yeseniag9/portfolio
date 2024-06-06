@@ -25,6 +25,11 @@ form button {
     letter-spacing: 0.5px;
 }
 
+form button:hover {
+    background-color: #ededed;
+    color: #333;
+}
+
 footer {
     background: #ededed;
     font-size: 52px;    
@@ -294,9 +299,4 @@ form .textarea-field .item {
 
 form .textarea-field .error-txt {
     margin-top: -10px;
-}
-
-form button:hover {
-    background-color: #ededed;
-    color: #333;
 }
