@@ -293,8 +293,7 @@ form button {
     padding: 13px 26px;
     border: none;
     border-radius: 6px;
-
-    letter-spacing: 1px;
+    letter-spacing: 0.5px;
 }
 
 form button:hover {
