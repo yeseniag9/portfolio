@@ -14,6 +14,10 @@
     width: 600px;
 }
 
+.input-box .input-field {
+    width: 48.5%;
+}
+
 form button {
     background: rgb(33, 156, 239);
     font-size: 15px;
@@ -250,10 +254,6 @@ p {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-
-.input-box .input-field {
-    width: 48.5%;
 }
 
 .input-field .item {
