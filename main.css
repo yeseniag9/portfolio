@@ -258,15 +258,14 @@ p {
 
 .input-field .item {
     background: transparent;
+    font-size: 16px;
     color: #ededed;
-
+    margin: 12px 0;
     width: 100%;
     padding: 18px;
     border: 2px solid #54cfff;
-    outline: none;
     border-radius: 6px;
-    font-size: 16px;
-    margin: 12px 0;
+    outline: none;
 }
 
 .input-field .item::placeholder {
