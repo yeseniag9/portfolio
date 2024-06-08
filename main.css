@@ -187,7 +187,7 @@ p {
 }
 
 .more-button {
-    background-color: rgb(33, 156, 239);
+    background: rgb(33, 156, 239);
     border: none;
     color: white;
     padding: 13px 25px;
