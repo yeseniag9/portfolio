@@ -190,8 +190,9 @@ p {
     background: rgb(33, 156, 239);
     font-size: 15px;
     color: white;
+    padding: 13px 26px;
+
     border: none;
-    padding: 13px 25px;
     text-align: center;
     cursor: pointer;
     border-radius: 36px;
