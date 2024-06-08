@@ -192,9 +192,10 @@ p {
     color: white;
     padding: 13px 26px;
     border: none;
+    border-radius: 6px;
+
     text-align: center;
     cursor: pointer;
-    border-radius: 36px;
     font-weight: bold;
 }
 
