@@ -1,3 +1,7 @@
+#contact {
+    scroll-margin-top: 50px;
+}
+
 .contact {
     background: #1f242d;
     min-height: 100vh;
@@ -239,7 +243,7 @@ p {
 
 .projects {
     min-height: 100vh;
-    background-color: white;
+    background-color: green;
 }
 
 /* 
