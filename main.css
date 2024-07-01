@@ -34,6 +34,10 @@
     outline: none;
 }
 
+.input-field .item::placeholder {
+    color: rgba(255, 255, 255, .3);
+}
+
 form button {
     margin-top: 20px;
     background: rgb(33, 156, 239);
@@ -272,10 +276,6 @@ p {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-
-.input-field .item::placeholder {
-    color: rgba(255, 255, 255, .3);
 }
 
 .input-field.error .item {
