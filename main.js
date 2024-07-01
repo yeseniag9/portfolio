@@ -76,17 +76,17 @@ function checkInputs() {
 
 function checkEmail() {
     const emailRegex = /^([a-z\d\.-]+)@([a-z\d-]+)\.([a-z]{2,3})(\.[a-z]{2,3})?$/;
-    const errorTxtEmail = document.querySelector(".error-txt.email");
+    const errorTextEmail = document.querySelector(".error-text.email");
 
     if (!email.value.match(emailRegex)) {
         email.classList.add("error");
         email.parentElement.classList.add("error");
 
         if (email.value != "") {
-            errorTxtEmail.innerText = "Enter a valid email address";
+            errorTextEmail.innerText = "Enter a valid email address";
         }
         else {
-            errorTxtEmail.innerText = "Email Address can't be blank";
+            errorTextEmail.innerText = "Email Address can't be blank";
         }
     }
     else {

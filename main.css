@@ -23,7 +23,7 @@
 }
 
 .input-field .item {
-    margin: 12px;
+    margin: 12px 0;
     background: transparent;
     font-size: 17px;
     color: #ededed;
@@ -282,7 +282,7 @@ p {
     border-color: #d93025;
 }
 
-.input-field .error-txt {
+.input-field .error-text {
     font-size: 14.5px;
     color: #d93025;
     text-align: left;
@@ -290,7 +290,7 @@ p {
     display: none;
 }
 
-.input-field.error .error-txt {
+.input-field.error .error-text {
     display: block;
 }
 
@@ -298,6 +298,6 @@ form .textarea-field .item {
     resize: none;
 }
 
-form .textarea-field .error-txt {
+form .textarea-field .error-text {
     margin-top: -10px;
 }
