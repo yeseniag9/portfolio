@@ -42,6 +42,10 @@
     border-color: #d93025;
 }
 
+.input-field.error .error-text {
+    display: block;
+}
+
 form button {
     margin-top: 20px;
     background: rgb(33, 156, 239);
@@ -290,10 +294,6 @@ p {
     text-align: left;
     margin: -5px 0 10px;
     display: none;
-}
-
-.input-field.error .error-text {
-    display: block;
 }
 
 form .textarea-field .item {
