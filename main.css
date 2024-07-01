@@ -8,9 +8,9 @@
 }
 
 .contact h2 {
+    margin-bottom: 10px;
     font-size: 40px;
     color: #ededed;
-    margin-bottom: 10px;
 }
 
 .contact form {
@@ -23,10 +23,10 @@
 }
 
 form button {
+    margin-top: 20px;
     background: rgb(33, 156, 239);
     font-size: 15px;
     color: #333;
-    margin-top: 20px;
     padding: 13px 26px;
     border: none;
     border-radius: 6px;
@@ -263,10 +263,10 @@ p {
 }
 
 .input-field .item {
+    margin: 12px;
     background: transparent;
     font-size: 17px;
     color: #ededed;
-    margin: 12px;
     width: 100%;
     padding: 18px;
     border: 2px solid #54cfff;
