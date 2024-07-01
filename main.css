@@ -22,6 +22,18 @@
     width: 48.5%;
 }
 
+.input-field .item {
+    margin: 12px;
+    background: transparent;
+    font-size: 17px;
+    color: #ededed;
+    width: 100%;
+    padding: 18px;
+    border: 2px solid #54cfff;
+    border-radius: 6px;
+    outline: none;
+}
+
 form button {
     margin-top: 20px;
     background: rgb(33, 156, 239);
@@ -260,18 +272,6 @@ p {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-
-.input-field .item {
-    margin: 12px;
-    background: transparent;
-    font-size: 17px;
-    color: #ededed;
-    width: 100%;
-    padding: 18px;
-    border: 2px solid #54cfff;
-    border-radius: 6px;
-    outline: none;
 }
 
 .input-field .item::placeholder {
