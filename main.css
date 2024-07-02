@@ -46,6 +46,14 @@
     display: block;
 }
 
+.input-field .error-text {
+    margin: -5px 0 10px;
+    font-size: 14.5px;
+    color: #d93025;
+    text-align: left;
+    display: none;
+}
+
 form button {
     margin-top: 20px;
     background: rgb(33, 156, 239);
@@ -286,14 +294,6 @@ p {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-
-.input-field .error-text {
-    font-size: 14.5px;
-    color: #d93025;
-    text-align: left;
-    margin: -5px 0 10px;
-    display: none;
 }
 
 form .textarea-field .item {
