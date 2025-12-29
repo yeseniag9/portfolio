@@ -113,7 +113,7 @@ footer {
         bottom: 0px;
         left: 0px;
         opacity: 0.60;
-        margin-bottom: 3px;
+        margin-bottom: 0px;
     }
 } 
 
@@ -229,7 +229,9 @@ p {
 }
 
 .intro-subtext {
-    width: 600px;
+    width: 550px;
+    padding-right: 15px;
+    text-align: center;
 }
 
 .more-button {
