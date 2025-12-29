@@ -102,7 +102,7 @@ footer {
 
 
 .home {
-    margin-bottom: -19px;
+    margin-bottom: -167px;
     &::before {
         content: "";  
         background-image: url('images/chicago.jpg');
@@ -292,6 +292,10 @@ p {
 }
 
 .amazon-login {
+    color: black;
+}
+
+.hangman {
     color: black;
 }
 
